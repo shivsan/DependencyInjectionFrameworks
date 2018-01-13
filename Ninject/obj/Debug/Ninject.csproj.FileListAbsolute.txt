@@ -1,0 +1,9 @@
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\bin\Debug\DependencyInjectionFrameworks.exe.config
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\bin\Debug\DependencyInjectionFrameworks.exe
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\bin\Debug\DependencyInjectionFrameworks.pdb
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\bin\Debug\Ninject.dll
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\bin\Debug\Ninject.xml
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\obj\Debug\Ninject.csproj.CoreCompileInputs.cache
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\obj\Debug\DependencyInjectionFrameworks.exe
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\obj\Debug\DependencyInjectionFrameworks.pdb
+F:\Programming\DotNet\DependencyInjectionFrameworks\Ninject\obj\Debug\Ninject.csprojResolveAssemblyReference.cache

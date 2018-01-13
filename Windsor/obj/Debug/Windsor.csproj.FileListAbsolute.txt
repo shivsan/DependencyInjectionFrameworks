@@ -1,0 +1,11 @@
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\obj\Debug\Windsor.csproj.CoreCompileInputs.cache
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Windsor.exe.config
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Windsor.exe
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Windsor.pdb
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Castle.Core.dll
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Castle.Windsor.dll
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Castle.Core.xml
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\bin\Debug\Castle.Windsor.xml
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\obj\Debug\Windsor.exe
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\obj\Debug\Windsor.pdb
+F:\Programming\DotNet\DependencyInjectionFrameworks\Windsor\obj\Debug\Windsor.csprojResolveAssemblyReference.cache
